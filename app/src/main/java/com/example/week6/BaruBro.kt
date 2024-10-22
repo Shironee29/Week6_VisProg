@@ -9,6 +9,7 @@ public fun main(){
     Text(
         "Hello"
     )
+    Text("Ezzzzzz Browwww")
 }
 
 @Preview
